@@ -1,0 +1,3 @@
+rootProject.name = 'mive_1834'
+
+include ':app'
